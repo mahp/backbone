@@ -1,4 +1,4 @@
 
 # 目录
 
-* [index](index.html)
+* [home](index.html)
