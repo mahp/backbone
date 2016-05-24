@@ -1,10 +1,8 @@
 
 # 目录
 
-[Backbone.js(1.3.3)](#)
-
-*   » [GitHub Repository](http://github.com/jashkenas/backbone)
-*   » [Annotated Source](docs/backbone.html)
+*   [GitHub Repository](http://github.com/jashkenas/backbone)
+*   [Annotated Source](docs/backbone.html)
 
 [Getting Started](#Getting-started)
 
